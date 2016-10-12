@@ -1,0 +1,6 @@
+C:\Users\Jalen\Documents\School\Software Principles\smac-master\Modes\bin\Debug\ConsoleApplication.exe
+C:\Users\Jalen\Documents\School\Software Principles\smac-master\Modes\bin\Debug\ConsoleApplication.pdb
+C:\Users\Jalen\Documents\School\Software Principles\smac-master\Modes\bin\Debug\MySql.Data.dll
+C:\Users\Jalen\Documents\School\Software Principles\smac-master\Modes\obj\x86\Debug\In_Flight_Project.csprojResolveAssemblyReference.cache
+C:\Users\Jalen\Documents\School\Software Principles\smac-master\Modes\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Jalen\Documents\School\Software Principles\smac-master\Modes\obj\x86\Debug\ConsoleApplication.pdb
